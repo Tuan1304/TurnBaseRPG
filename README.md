@@ -14,10 +14,5 @@ Game RPG Turn-Based được phát triển bằng Unity.
 - Trang bị
 - AI quái vật
 
-## Cách chạy
-1. Mở project bằng Unity Hub
-2. Chọn phiên bản Unity phù hợp
-3. Nhấn Play
-
 ## Tác giả
 Vũ Tuấn
