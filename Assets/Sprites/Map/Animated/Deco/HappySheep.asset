@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: HappySheep
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -7965885453348062566, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: 4932472319623443587, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -7625975663000953744, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -7949685157368943142, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -3512647757082788427, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -8327599238442022124, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -2192518879918380244, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: 6100468968865793786, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -7412088679705387033, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -1228813952043584534, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -2120751546683228147, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: 1956652923719774452, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -7238370263485564898, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: -1397879521566131551, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: 4517993989966707144, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  - {fileID: 3956068124173570873, guid: ed92ba13f5e20c94baf685d84819c7ec, type: 3}
+  m_MinSpeed: 2
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

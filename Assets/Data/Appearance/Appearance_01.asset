@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7428b489658509d4f8e15959df8776f8, type: 3}
+  m_Name: Appearance_01
+  m_EditorClassIdentifier: 
+  hair: {fileID: 1590491740601543998, guid: 4525c9b23bf453c4ab503c798d08da57, type: 3}
+  body: {fileID: 2025736221, guid: a1731dd8c4d51404093ed489985dd276, type: 3}
+  leftArm: {fileID: -7353738299516173498, guid: a1731dd8c4d51404093ed489985dd276, type: 3}
+  rightArm: {fileID: -5270012114556193762, guid: a1731dd8c4d51404093ed489985dd276, type: 3}
+  leftLeg: {fileID: 1261123012, guid: a1731dd8c4d51404093ed489985dd276, type: 3}
+  rightLeg: {fileID: -495562531, guid: a1731dd8c4d51404093ed489985dd276, type: 3}
+  armorBody: {fileID: 1941588151021849806, guid: 25cfe8ff71c94cc4e86b54234588b9fe, type: 3}
+  armorLeftArm: {fileID: -7650184365866704765, guid: 25cfe8ff71c94cc4e86b54234588b9fe, type: 3}
+  armorRightArm: {fileID: 3832911645102586382, guid: 25cfe8ff71c94cc4e86b54234588b9fe, type: 3}
+  armorLeftLeg: {fileID: -4521406155954140245, guid: 73440e0405f8bad4b85dafab870ca5fa, type: 3}
+  armorRightLeg: {fileID: -997006319698520551, guid: 73440e0405f8bad4b85dafab870ca5fa, type: 3}
+  weapon: {fileID: -3510546928877071596, guid: e7f49cd625cd7de4c97028b4c70cb151, type: 3}

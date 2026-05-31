@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99e6e79b0c8358b40842322bf119bbc3, type: 3}
+  m_Name: Pan1
+  m_EditorClassIdentifier: 
+  id: Pan1
+  itemName: 
+  description: 
+  icon: {fileID: 7313079964742260036, guid: 0fb5c929e56a6914f91dff4a5cd474b6, type: 3}
+  rarity: 0
+  itemType: 0
+  equipmentSlot: 3
+  weaponType: 0
+  bonusStats:
+    hp: 5
+    attack: 0
+    defense: 0
+    magicDefense: 2
+    abilityPower: 0
+    critChance: 0
+    evade: 0
+  randomRange:
+    hp: 20
+    attack: 0
+    defense: 2
+    magicDefense: 4
+    abilityPower: 0
+    critChance: 0
+    evade: 0
+  helmetSprite: {fileID: 0}
+  weaponSprite: {fileID: 0}
+  armorBodySprite: {fileID: 0}
+  armorLeftArmSprite: {fileID: 0}
+  armorRightArmSprite: {fileID: 0}
+  pantsLeftLegSprite: {fileID: 1018423890234701556, guid: 038ba9e31559fe449933f73291f8715f, type: 3}
+  pantsRightLegSprite: {fileID: 1163637350275628661, guid: 038ba9e31559fe449933f73291f8715f, type: 3}
+  goldCost: 0
+  woodCost: 20
+  stoneCost: 20
+  foodCost: 0

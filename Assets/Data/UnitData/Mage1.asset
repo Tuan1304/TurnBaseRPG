@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db8b53dc79cf6b42b9817a98ba0144b, type: 3}
+  m_Name: Mage1
+  m_EditorClassIdentifier: 
+  id: 1
+  unitName: Theron
+  avatar: {fileID: 0}
+  baseStats:
+    hp: 10
+    attack: 2
+    defense: 1
+    magicDefense: 3
+    abilityPower: 2
+    critChance: 1
+    evade: 2
+  unitClass: 2
+  rarity: 0
+  skill: {fileID: 11400000, guid: 4cb630dee899e9649b5950cc58d4f43a, type: 2}
+  attackProjectile: {fileID: 3897179511708644484, guid: d284c9f8d6e524449b839b8f72481ddc, type: 3}

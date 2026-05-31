@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99e6e79b0c8358b40842322bf119bbc3, type: 3}
+  m_Name: Amor1
+  m_EditorClassIdentifier: 
+  id: Amor1
+  itemName: 
+  description: 
+  icon: {fileID: -3283878981979326925, guid: cf47f4a0692b21949b50adab2f04f871, type: 3}
+  rarity: 1
+  itemType: 0
+  equipmentSlot: 1
+  weaponType: 0
+  bonusStats:
+    hp: 7
+    attack: 0
+    defense: 1
+    magicDefense: 1
+    abilityPower: 0
+    critChance: 0
+    evade: 0
+  randomRange:
+    hp: 20
+    attack: 0
+    defense: 4
+    magicDefense: 0
+    abilityPower: 0
+    critChance: 0
+    evade: 0
+  helmetSprite: {fileID: 0}
+  weaponSprite: {fileID: 0}
+  armorBodySprite: {fileID: -925700855234654727, guid: 18eb5cd6ce51cb44f8eec7e99ee3fa16, type: 3}
+  armorLeftArmSprite: {fileID: 2063926097333013154, guid: 18eb5cd6ce51cb44f8eec7e99ee3fa16, type: 3}
+  armorRightArmSprite: {fileID: -5301234822971782531, guid: 18eb5cd6ce51cb44f8eec7e99ee3fa16, type: 3}
+  pantsLeftLegSprite: {fileID: 0}
+  pantsRightLegSprite: {fileID: 0}
+  goldCost: 0
+  woodCost: 70
+  stoneCost: 70
+  foodCost: 0

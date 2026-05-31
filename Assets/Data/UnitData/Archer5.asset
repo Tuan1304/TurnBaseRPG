@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db8b53dc79cf6b42b9817a98ba0144b, type: 3}
+  m_Name: Archer5
+  m_EditorClassIdentifier: 
+  id: 1
+  unitName: Aldric
+  avatar: {fileID: 0}
+  baseStats:
+    hp: 10
+    attack: 3
+    defense: 1
+    magicDefense: 2
+    abilityPower: 0
+    critChance: 4
+    evade: 2
+  unitClass: 1
+  rarity: 0
+  skill: {fileID: 11400000, guid: 16112de38abcce94f981cd3f4a1a9d24, type: 2}
+  attackProjectile: {fileID: 7744825274103753796, guid: e740b4941afa8564393bd2484fbe8aef, type: 3}

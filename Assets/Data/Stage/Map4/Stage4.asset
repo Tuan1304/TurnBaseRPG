@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5781179f9d27f1c4b91fc4c282530ce3, type: 3}
+  m_Name: Stage4
+  m_EditorClassIdentifier: 
+  stageName: "M\xE0n 4"
+  objective: "Ti\xEAu di\u1EC7t to\xE0n b\u1ED9"
+  difficulty: "C\u1EF1c kh\xF3"
+  reward:
+    gold: 100
+    wood: 100
+    stone: 100
+    food: 100
+    exp: 100
+  waves:
+  - {fileID: 11400000, guid: c14b0407ab88eb348954d5932677eaec, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 312acf98d282c6f449b32a8a9a5d0802, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  enemyName: "Qu\xE2n \u0110o\xE0n Shodom1"
+  unitClass: 1
+  stats:
+    hp: 100
+    attack: 20
+    defense: 5
+    magicDefense: 0
+    abilityPower: 0
+    critChance: 5
+    evade: 0
+  skill: {fileID: 11400000, guid: 8c74a628a60ef2e4abaf7c877707ea49, type: 2}
+  appearance: {fileID: 11400000, guid: 4b10c9a3a474e4440bc72a5c968245b8, type: 2}
+  attackProjectile: {fileID: 7744825274103753796, guid: e740b4941afa8564393bd2484fbe8aef, type: 3}
